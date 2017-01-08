@@ -1,6 +1,3 @@
 david2
-<<<<<<< HEAD
-this is a comment made on github
-=======
-//this is a comment made on my computer
->>>>>>> david2 computer change
+
+david2 computer change
